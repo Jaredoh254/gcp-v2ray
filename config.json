@@ -6,7 +6,7 @@
       "settings": {
         "clients": [
           {
-            "id": "fbf3a7e4-0e9b-11f1-b2cc-0fb373949e50",
+            "id": "ac65b9a0-adc3-4b8c-aab2-16df345a447b",
             "level": 0
           }
         ],
@@ -15,7 +15,7 @@
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/vpnjantit"
+          "path": "/vless/"
         }
       }
     }
