@@ -34,7 +34,7 @@ This project allows you to deploy a **VLESS proxy** server over **WebSocket** us
       "settings": {
         "clients": [
           {
-            "id": "ac65b9a0-adc3-4b8c-aab2-16df345a447b",
+            "id": "45ec4090-752b-11f1-b739-205c6d5f5d78",
             "level": 0
           }
         ],
@@ -43,7 +43,7 @@ This project allows you to deploy a **VLESS proxy** server over **WebSocket** us
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/vless/"
+          "path": "/vlws"
         }
       }
     }
